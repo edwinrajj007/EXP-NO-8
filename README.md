@@ -21,27 +21,30 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **CIRCUIT DIAGRAM:**
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/98e91d9e-6094-4643-9780-5109e2fa8580" />
 
+<img width="1600" height="884" alt="image" src="https://github.com/user-attachments/assets/43970f08-a699-41ad-9a00-75daec38d5ba" />
 
 
 
 **TABULATION:**
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/21efda4e-4011-41cb-b9bf-a817fab60c25" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/8d63b2ab-00eb-4886-a4ba-ec5e357ddc64" />
 
+<img width="1600" height="1222" alt="image" src="https://github.com/user-attachments/assets/80816681-983f-4771-9eda-a3e709aa6d78" />
 
 
 
 **Calculation:**
 
+**Simulation output**
+
+<img width="1600" height="652" alt="image" src="https://github.com/user-attachments/assets/b4c958d5-ef33-4ed3-9e24-7cbb1691d717" />
 
 
 **Marksplitup:**
 
+<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/92e49c5c-22bd-472e-9e4c-ccd1b0c80f1e" />
+
 
 **RESULT:**
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/979c722c-c5ae-4522-bead-3e72c93a16f8" />
 
 
 Thus the transient analysis of series RLC circuit is done practically using Multisim Simulator.
